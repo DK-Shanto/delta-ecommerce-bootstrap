@@ -1,0 +1,11 @@
+.delta-bg-info{
+    background-color: #fceae7;
+}
+
+.delta-btn-clr{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #fe4a8e 100%);
+    border:none;
+    color: #fff;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
